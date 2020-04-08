@@ -1,0 +1,20 @@
+/*fonts*/
+$main-font:serif;
+$heading-font:sans-serif;
+$font-size:16px;
+$font-color:#333333;
+
+/*color scheme*/
+
+$main-color:#1c1b3a;
+$secondary-color:#000000;
+
+$main-color-tinted:mix(white,$main-color,10%);
+$secondary-color-tinted:mix(white,$secondary-color,10%);
+
+
+/*Dimension*/
+
+$template-width:50%;
+$showcase-height:400px;
+$icon-size:60px;
